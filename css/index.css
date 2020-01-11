@@ -182,6 +182,9 @@ p {
   color: #454A59;
   margin: 0 2%;
 }
+.nav2 a:hover {
+  color: gray;
+}
 footer {
   color: #22283B;
   background: #f4f4f4;
